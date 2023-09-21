@@ -1,7 +1,7 @@
 # springmvc
 Spring/Hibernate Integration 
 Spring mvc Application 
-################################### Services #########################################################3
+################# Services ###################
 1. Add New Course
 
 2. Delete Course
